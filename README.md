@@ -1,5 +1,5 @@
-## Hi there 👋
-### Ola Eu sou o Andre 
+## Olá,Eu sou o André 👋
+### 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zkfelixx/saved/)
 
